@@ -1,3 +1,3 @@
 # repos__demo
-this is my fist git repository
+this is my fist git repository.
 author - anamika
